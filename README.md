@@ -1,6 +1,13 @@
 # AI/BI Genie + Databricks SQL Serverless Workshop 
 The aims of this repo is to create a hands on AI/BI Genie + Databricks SQL Serverless Workshop .
 
+# Products used
+- Databricks SQL Serverless
+- Databricks Serverless Workflows
+- AI/BI Genie
+- Notebooks
+- Unity Catalog 
+
 
 # Databricks SQL
 Databricks SQL is the intelligent data warehouse. Built with DatabricksIQ, the Data Intelligence Engine that understands the uniqueness of your data, Databricks SQL democratizes analytics for technical and business users alike. Businesses are able to innovate faster with an intelligent and auto-optimizing platform that provides the best price/performance in the market. As part of the Databricks Data Intelligence Platform, Databricks SQL benefits from the simplicity, unified governance and openness of lakehouse architecture.
