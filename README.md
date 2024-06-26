@@ -27,6 +27,15 @@ Notebook: https://github.com/drcaiomoreno/e2e-ai-bi-genai-db-sql-hands-on-worksh
 
 ### Introducing AI/BI: Intelligent Analytics for Real-World Data
 https://www.databricks.com/blog/introducing-aibi-intelligent-analytics-real-world-data
+
+### Databricks AI/BI (Genie)
+https://learn.microsoft.com/en-us/azure/databricks/ai-bi/<BR>
+https://docs.databricks.com/en/ai-bi/index.html<BR>
    
 ### Enable serverless compute public preview
 https://docs.databricks.com/en/admin/workspace-settings/serverless.html
+
+### Dataset
+https://www.airbnb.es/<BR>
+Original data from:https://insideairbnb.com/get-the-data/<BR>
+
