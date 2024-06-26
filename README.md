@@ -1,4 +1,4 @@
-# AI/BI Genie + Databricks SQL Serverless Workshop 
+# AI/BI Genie + Databricks SQL Serverless + Unity Catalog Demo/Workshop 
 The aims of this repo is to create a hands on AI/BI Genie + Databricks SQL Serverless Workshop .
 
 # Products used
