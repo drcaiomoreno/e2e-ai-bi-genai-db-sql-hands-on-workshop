@@ -18,24 +18,6 @@ This short workshop has some labs.
 4. Show me the top 10 super hosts by number of reviews
 5. Show me all the properties where Fran Y Marta are the super host
    
-
-### Links
-
-How To Migrate Your Oracle PL/SQL Code to Databricks Lakehouse Platform<BR>
-https://www.databricks.com/blog/how-migrate-your-oracle-plsql-code-databricks-lakehouse-platform<BR>
-
-Databricks Named a Leader<BR>
-https://www.databricks.com/resources/analyst-paper/databricks-named-leader-by-gartner<BR>
-
-Databricks Auto Loader<BR>
-https://learn.microsoft.com/en-us/azure/databricks/ingestion/auto-loader/<BR>
-
-Delta Live Tables<BR>
-https://learn.microsoft.com/en-us/azure/databricks/delta-live-tables/<BR>
-
-
 ### Enable serverless compute public preview
 https://docs.databricks.com/en/admin/workspace-settings/serverless.html
 
-### FinOps and Databricks System Tables
-https://caiomsouza.medium.com/finops-and-databricks-system-tables-afd38b9177e1
