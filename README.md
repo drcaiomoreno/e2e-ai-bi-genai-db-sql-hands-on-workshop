@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=oSAlOA4mrYo
 - Unity Catalog 
 
 ### Code / Labs 
-ss
+Notebook: https://github.com/drcaiomoreno/e2e-ai-bi-genai-db-sql-hands-on-workshop/blob/main/e2e-airbnb-madrid-analytics/notebooks/1_Load_Table_Listing.py
 
 
 ### Questions to use
