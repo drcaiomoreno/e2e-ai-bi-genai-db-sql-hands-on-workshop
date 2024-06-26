@@ -24,3 +24,7 @@ https://learn.microsoft.com/en-us/azure/databricks/ingestion/auto-loader/<BR>
 
 Delta Live Tables<BR>
 https://learn.microsoft.com/en-us/azure/databricks/delta-live-tables/<BR>
+
+
+### Enable serverless compute public preview
+https://docs.databricks.com/en/admin/workspace-settings/serverless.html
