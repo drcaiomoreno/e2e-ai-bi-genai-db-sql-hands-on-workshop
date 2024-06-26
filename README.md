@@ -40,4 +40,5 @@ https://www.airbnb.es/<BR><BR>
 
 Original data from:<BR>
 https://insideairbnb.com/get-the-data/<BR>
+https://creativecommons.org/licenses/by/4.0/<BR>
 
