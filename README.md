@@ -4,6 +4,9 @@ The aim of this repo is to create a hands-on AI/BI Genie + Databricks SQL Server
 ### AI/BI Genie + Databricks SQL Serverless + Unity Catalog Demo
 https://www.youtube.com/watch?v=oSAlOA4mrYo
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/oSAlOA4mrYo/0.jpg)](https://www.youtube.com/watch?v=oSAlOA4mrYo)
+
+
 # Products used
 - Databricks SQL Serverless
 - AI/BI Genie
