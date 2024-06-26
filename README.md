@@ -28,3 +28,6 @@ https://learn.microsoft.com/en-us/azure/databricks/delta-live-tables/<BR>
 
 ### Enable serverless compute public preview
 https://docs.databricks.com/en/admin/workspace-settings/serverless.html
+
+### FinOps and Databricks System Tables
+https://caiomsouza.medium.com/finops-and-databricks-system-tables-afd38b9177e1
