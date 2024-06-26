@@ -11,6 +11,10 @@ The aims of this repo is to create a hands on AI/BI Genie + Databricks SQL Serve
 ### Labs 
 This short workshop has some labs.
 
+### Questions to use
+1. Show me the top super hosts by highest number of reviews
+2. 
+
 ### Links
 
 How To Migrate Your Oracle PL/SQL Code to Databricks Lakehouse Platform<BR>
