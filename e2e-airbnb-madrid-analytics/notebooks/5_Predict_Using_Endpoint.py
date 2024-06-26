@@ -4,6 +4,10 @@
 
 # COMMAND ----------
 
+DATABRICKS_OAUTH_TOKEN = "PLACE_HERE_YOUR_OAUTH_TOKEN"
+
+# COMMAND ----------
+
 # Use this to test the UI 
 
 {
@@ -96,10 +100,6 @@ ml_data = {
 # COMMAND ----------
 
 ml_data
-
-# COMMAND ----------
-
-DATABRICKS_OAUTH_TOKEN = "PLACE_HERE_YOUR_OAUTH_TOKEN"
 
 # COMMAND ----------
 
