@@ -17,7 +17,9 @@ This short workshop has some labs.
 3. I only have 120 euros, where can I stay?
 4. Show me the top 10 super hosts by number of reviews
 5. Show me all the properties where Fran Y Marta are the super host
+
+### Introducing AI/BI: Intelligent Analytics for Real-World Data
+https://www.databricks.com/blog/introducing-aibi-intelligent-analytics-real-world-data
    
 ### Enable serverless compute public preview
 https://docs.databricks.com/en/admin/workspace-settings/serverless.html
-
