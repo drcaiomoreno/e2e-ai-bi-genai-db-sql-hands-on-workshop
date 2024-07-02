@@ -1,6 +1,6 @@
 # Databricks notebook source
 # MAGIC %md
-# MAGIC ### Airbnb Madrid Listing Analytics using Databricks
+# MAGIC ### Airbnb Valencia Listing Analytics using Databricks
 
 # COMMAND ----------
 
@@ -30,10 +30,10 @@
 
 # MAGIC %md
 # MAGIC **Catalogue name:** cm_airbnb_mad_demo<BR>
-# MAGIC **Schema:** airbnb_mad<BR>
-# MAGIC **Table:** airbnb_mad_listing_detailed<BR><BR>
+# MAGIC **Schema:** airbnb_vlc<BR>
+# MAGIC **Table:** airbnb_vlc_listing_detailed<BR><BR>
 # MAGIC
-# MAGIC **Volume path:** /Volumes/cm_airbnb_mad_demo/airbnb_mad/airbnb_mad/<BR>
+# MAGIC **Volume path:** /Volumes/cm_airbnb_mad_demo/airbnb_vlc/airbnb_vlc<BR>
 
 # COMMAND ----------
 
@@ -43,7 +43,7 @@
 # COMMAND ----------
 
 # MAGIC %sh 
-# MAGIC ls -lh /Volumes/cm_airbnb_mad_demo/airbnb_mad/airbnb_mad/
+# MAGIC ls -lh /Volumes/cm_airbnb_mad_demo/airbnb_vlc/airbnb_vlc
 
 # COMMAND ----------
 
@@ -53,13 +53,13 @@
 # COMMAND ----------
 
 # MAGIC %sh
-# MAGIC mkdir /Volumes/cm_airbnb_mad_demo/airbnb_mad/airbnb_mad/listing
+# MAGIC mkdir /Volumes/cm_airbnb_mad_demo/airbnb_vlc/airbnb_vlc/listing
 
 # COMMAND ----------
 
 # MAGIC %sh
-# MAGIC cd /Volumes/cm_airbnb_mad_demo/airbnb_mad/airbnb_mad/listing
-# MAGIC wget https://data.insideairbnb.com/spain/comunidad-de-madrid/madrid/2024-03-22/data/listings.csv.gz 
+# MAGIC cd /Volumes/cm_airbnb_mad_demo/airbnb_vlc/airbnb_vlc/listing
+# MAGIC wget https://data.insideairbnb.com/spain/vc/valencia/2024-03-24/data/listings.csv.gz
 
 # COMMAND ----------
 
@@ -77,7 +77,7 @@
 # COMMAND ----------
 
 # MAGIC %sh
-# MAGIC cd /Volumes/cm_airbnb_mad_demo/airbnb_mad/airbnb_mad/listing
+# MAGIC cd /Volumes/cm_airbnb_mad_demo/airbnb_vlc/airbnb_vlc/listing
 # MAGIC ls -lh
 
 # COMMAND ----------
@@ -88,12 +88,12 @@
 # COMMAND ----------
 
 # MAGIC %sh
-# MAGIC gzip -d /Volumes/cm_airbnb_mad_demo/airbnb_mad/airbnb_mad/listing/listings.csv.gz
+# MAGIC gzip -d /Volumes/cm_airbnb_mad_demo/airbnb_vlc/airbnb_vlc/listing/listings.csv.gz
 
 # COMMAND ----------
 
 # MAGIC %sh
-# MAGIC cd /Volumes/cm_airbnb_mad_demo/airbnb_mad/airbnb_mad/listing
+# MAGIC cd /Volumes/cm_airbnb_mad_demo/airbnb_vlc/airbnb_vlc/listing
 # MAGIC ls -lh
 
 # COMMAND ----------
@@ -108,8 +108,8 @@
 
 # COMMAND ----------
 
-air_bnb_mad_df = spark.read.csv("/Volumes/cm_airbnb_mad_demo/airbnb_mad/airbnb_mad/listing/listings.csv", header=True, inferSchema=True,multiLine="true", escape='"')
-display(air_bnb_mad_df)
+air_bnb_vlc_df = spark.read.csv("/Volumes/cm_airbnb_mad_demo/airbnb_vlc/airbnb_vlc/listing/listings.csv", header=True, inferSchema=True,multiLine="true", escape='"')
+display(air_bnb_vlc_df)
 
 # COMMAND ----------
 
@@ -118,9 +118,9 @@ display(air_bnb_mad_df)
 
 # COMMAND ----------
 
-air_bnb_mad_df.write.format("delta").mode("overwrite").saveAsTable("cm_airbnb_mad_demo.airbnb_mad.airbnb_mad_listing_detailed")
+air_bnb_vlc_df.write.format("delta").mode("overwrite").saveAsTable("cm_airbnb_mad_demo.airbnb_vlc.airbnb_vlc_listing_detailed")
 
 # COMMAND ----------
 
-df = spark.sql("SELECT * FROM cm_airbnb_mad_demo.airbnb_mad.airbnb_mad_listing_detailed")
+df = spark.sql("SELECT * FROM cm_airbnb_mad_demo.airbnb_vlc.airbnb_vlc_listing_detailed")
 display(df)
