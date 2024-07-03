@@ -11,6 +11,10 @@ https://caiomsouza.medium.com/ai-bi-genie-databricks-sql-serverless-unity-catalo
 Youtube Video: https://www.youtube.com/watch?v=oSAlOA4mrYo
 
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5ctfW6Ac0Ws/0.jpg)](https://www.youtube.com/watch?v=5ctfW6Ac0Ws)
+
+Youtube Video: https://www.youtube.com/watch?v=5ctfW6Ac0Ws
+
 # Products used
 - Databricks SQL Serverless
 - AI/BI Genie
