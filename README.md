@@ -50,3 +50,6 @@ Original data from:<BR>
 https://insideairbnb.com/get-the-data/<BR>
 https://creativecommons.org/licenses/by/4.0/<BR>
 
+### What does a world without Airbnb look like?
+https://www.bbc.com/travel/article/20240701-what-does-a-world-without-airbnb-look-like
+
