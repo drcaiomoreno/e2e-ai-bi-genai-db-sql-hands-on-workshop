@@ -5,16 +5,16 @@ Blog post: <BR>
 https://caiomsouza.medium.com/ai-bi-genie-databricks-sql-serverless-unity-catalog-demo-workshop-bbfeb39ae0be<BR><BR>
 
 ### AI/BI Genie + Databricks SQL Serverless + Unity Catalog Demo (English Version)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/oSAlOA4mrYo/0.jpg)](https://www.youtube.com/watch?v=oSAlOA4mrYo)
-Youtube Video: https://www.youtube.com/watch?v=oSAlOA4mrYo
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/oSAlOA4mrYo/0.jpg)](https://www.youtube.com/watch?v=oSAlOA4mrYo)<BR>
+Youtube Video: https://www.youtube.com/watch?v=oSAlOA4mrYo<BR>
 
 ### AI/BI Genie + Databricks SQL Serverless + Unity Catalog Demo (Spanish Version)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/h2m2iTj42yg/0.jpg)](https://www.youtube.com/watch?v=h2m2iTj42yg)
-Youtube Video: https://www.youtube.com/watch?v=h2m2iTj42yg
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/h2m2iTj42yg/0.jpg)](https://www.youtube.com/watch?v=h2m2iTj42yg)<BR>
+Youtube Video: https://www.youtube.com/watch?v=h2m2iTj42yg<BR>
 
 ### AI/BI Genie + Databricks SQL Serverless + Unity Catalog Demo (Portuguese Version)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7bBcJcHZ0eo/0.jpg)](https://www.youtube.com/watch?v=7bBcJcHZ0eo)
-Youtube Video: https://www.youtube.com/watch?v=7bBcJcHZ0eo
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7bBcJcHZ0eo/0.jpg)](https://www.youtube.com/watch?v=7bBcJcHZ0eo)<BR>
+Youtube Video: https://www.youtube.com/watch?v=7bBcJcHZ0eo<BR>
 
 
 # Products used
