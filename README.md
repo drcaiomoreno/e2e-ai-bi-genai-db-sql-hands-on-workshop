@@ -4,16 +4,18 @@ The aim of this repo is to create a hands-on AI/BI Genie + Databricks SQL Server
 Blog post: <BR>
 https://caiomsouza.medium.com/ai-bi-genie-databricks-sql-serverless-unity-catalog-demo-workshop-bbfeb39ae0be<BR><BR>
 
-### AI/BI Genie + Databricks SQL Serverless + Unity Catalog Demo
-
+### AI/BI Genie + Databricks SQL Serverless + Unity Catalog Demo (English Version)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/oSAlOA4mrYo/0.jpg)](https://www.youtube.com/watch?v=oSAlOA4mrYo)
-
 Youtube Video: https://www.youtube.com/watch?v=oSAlOA4mrYo
 
+### AI/BI Genie + Databricks SQL Serverless + Unity Catalog Demo (Spanish Version)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/h2m2iTj42yg/0.jpg)](https://www.youtube.com/watch?v=h2m2iTj42yg)
+Youtube Video: https://www.youtube.com/watch?v=h2m2iTj42yg
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5ctfW6Ac0Ws/0.jpg)](https://www.youtube.com/watch?v=5ctfW6Ac0Ws)
+### AI/BI Genie + Databricks SQL Serverless + Unity Catalog Demo (Portuguese Version)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7bBcJcHZ0eo/0.jpg)](https://www.youtube.com/watch?v=7bBcJcHZ0eo)
+Youtube Video: https://www.youtube.com/watch?v=7bBcJcHZ0eo
 
-Youtube Video: https://www.youtube.com/watch?v=5ctfW6Ac0Ws
 
 # Products used
 - Databricks SQL Serverless
@@ -43,6 +45,11 @@ https://www.databricks.com/blog/introducing-aibi-intelligent-analytics-real-worl
 ### Databricks AI/BI (Genie)
 https://learn.microsoft.com/en-us/azure/databricks/ai-bi/<BR>
 https://docs.databricks.com/en/ai-bi/index.html<BR>
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5ctfW6Ac0Ws/0.jpg)](https://www.youtube.com/watch?v=5ctfW6Ac0Ws)
+
+Youtube Video: https://www.youtube.com/watch?v=5ctfW6Ac0Ws
+
    
 ### Enable serverless compute public preview
 https://docs.databricks.com/en/admin/workspace-settings/serverless.html
