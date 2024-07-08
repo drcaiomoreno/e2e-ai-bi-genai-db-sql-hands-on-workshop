@@ -9,8 +9,8 @@ https://caiomsouza.medium.com/ai-bi-genie-databricks-sql-serverless-unity-catalo
 Youtube Video: https://www.youtube.com/watch?v=oSAlOA4mrYo<BR>
 
 ### AI/BI Genie + Databricks SQL Serverless + Unity Catalog Demo (Spanish Version)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/h2m2iTj42yg/0.jpg)](https://www.youtube.com/watch?v=h2m2iTj42yg)<BR>
-Youtube Video: https://www.youtube.com/watch?v=h2m2iTj42yg<BR>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/fh4IUqYFVII/0.jpg)](https://www.youtube.com/watch?v=fh4IUqYFVII)<BR>
+Youtube Video: https://www.youtube.com/watch?v=fh4IUqYFVII<BR>
 
 ### AI/BI Genie + Databricks SQL Serverless + Unity Catalog Demo (Portuguese Version)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7bBcJcHZ0eo/0.jpg)](https://www.youtube.com/watch?v=7bBcJcHZ0eo)<BR>
