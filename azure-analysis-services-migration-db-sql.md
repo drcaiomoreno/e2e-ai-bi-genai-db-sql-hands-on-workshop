@@ -11,3 +11,6 @@ https://techcommunity.microsoft.com/t5/analytics-on-azure-blog/part-2-migrate-az
 
 ### Migrate from Azure Analysis Services to Power BI Premium
 https://learn.microsoft.com/en-us/power-bi/guidance/migrate-azure-analysis-services-to-powerbi-premium
+
+### Adopting Power BI semantic models on Databricks SQL
+https://medium.com/dbsql-sme-engineering/adopting-power-bi-semantic-models-on-databricks-sql-6efb4b0f78c9
