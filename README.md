@@ -44,12 +44,12 @@ https://www.databricks.com/blog/introducing-aibi-intelligent-analytics-real-worl
 
 ### Databricks AI/BI (Genie)
 https://learn.microsoft.com/en-us/azure/databricks/ai-bi/<BR>
+https://learn.microsoft.com/en-us/azure/databricks/genie/<BR>
 https://docs.databricks.com/en/ai-bi/index.html<BR>
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5ctfW6Ac0Ws/0.jpg)](https://www.youtube.com/watch?v=5ctfW6Ac0Ws)
 
 Youtube Video: https://www.youtube.com/watch?v=5ctfW6Ac0Ws
-
    
 ### Enable serverless compute public preview
 https://docs.databricks.com/en/admin/workspace-settings/serverless.html
