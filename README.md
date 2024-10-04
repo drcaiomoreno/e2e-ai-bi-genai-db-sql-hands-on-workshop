@@ -54,6 +54,9 @@ Youtube Video: https://www.youtube.com/watch?v=5ctfW6Ac0Ws
 ### Enable serverless compute public preview
 https://docs.databricks.com/en/admin/workspace-settings/serverless.html
 
+### How to embed AI/BI Dashboards into your websites and applications
+https://www.databricks.com/blog/how-embed-aibi-dashboards-your-websites-and-applications
+
 ### Dataset
 https://www.airbnb.es/<BR><BR>
 
